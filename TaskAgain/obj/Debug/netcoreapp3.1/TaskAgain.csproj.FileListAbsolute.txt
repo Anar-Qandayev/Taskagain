@@ -1,0 +1,14 @@
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\bin\Debug\netcoreapp3.1\TaskAgain.exe
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\bin\Debug\netcoreapp3.1\TaskAgain.deps.json
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\bin\Debug\netcoreapp3.1\TaskAgain.runtimeconfig.json
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\bin\Debug\netcoreapp3.1\TaskAgain.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\bin\Debug\netcoreapp3.1\TaskAgain.dll
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\bin\Debug\netcoreapp3.1\TaskAgain.pdb
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.AssemblyInfo.cs
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.dll
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.pdb
+C:\Users\ibm\source\repos\TaskAgain\TaskAgain\obj\Debug\netcoreapp3.1\TaskAgain.genruntimeconfig.cache
